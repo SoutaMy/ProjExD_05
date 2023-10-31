@@ -359,7 +359,7 @@ def main(winstyle=0):
 
         clock.tick(40)
 
-        #C0A22131
+        ###C0A22131
         if reset_requested:
             all.empty()
             SCORE = 0
